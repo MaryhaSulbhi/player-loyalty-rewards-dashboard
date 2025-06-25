@@ -4,11 +4,17 @@ A real-money gaming platform loyalty analysis tool. This app provides a full wor
 
 🚀 Features
 📂 Upload CSV/Excel player activity data
+
 📊 Automated loyalty point calculation
+
 🏆 Leaderboard generation
+
 🎁 Bonus distribution reporting
+
 📈 Interactive data visualization dashboard
+
 ✅ Clean UI with clear instructions
+
 
 📁 Expected Input Format
 Column Name	      Description
