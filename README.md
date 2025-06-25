@@ -19,17 +19,17 @@ A real-money gaming platform loyalty analysis tool. This app provides a full wor
 
 📁 Expected Input Format
 
-Column Name	                  Description
+Column Name	         |         Description
 
-player_id                   	Unique player identifier
+player_id            |       	Unique player identifier
 
-game_type                   	Type of game played
+game_type            |       	Type of game played
 
-amount_wagered	              Total amount wagered
+amount_wagered	     |        Total amount wagered
 
-amount_won                   	Total amount won
+amount_won           |       	Total amount won
 
-timestamp	                    Date/time of activity
+timestamp	           |        Date/time of activity
 
 
 📌 File formats supported: .csv, .xlsx, .xls (Max: 200MB)
