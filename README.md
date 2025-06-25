@@ -2,7 +2,10 @@
 🕹️ ABC Gaming - Loyalty Points Calculator
 A real-money gaming platform loyalty analysis tool. This app provides a full workflow for uploading, analyzing, and reporting on player activity data for loyalty and bonus point allocation with a focus on interactivity, transparency, and clarity.
 
+
+
 🚀 Features
+
 
 📂 Upload CSV/Excel player activity data
 
@@ -19,6 +22,8 @@ A real-money gaming platform loyalty analysis tool. This app provides a full wor
 
 📁 Expected Input Format
 
+
+
 Column Name	         |         Description
 
 player_id            |       	Unique player identifier
@@ -32,7 +37,10 @@ amount_won           |       	Total amount won
 timestamp	           |        Date/time of activity
 
 
+
 📌 File formats supported: .csv, .xlsx, .xls (Max: 200MB)
+
+
 
 💻 Tech Stack
 Frontend: Streamlit
@@ -42,6 +50,8 @@ Backend: Python (Pandas, NumPy)
 Visualization: Plotly / Altair
 
 Deployment: Localhost / (Optionally deployable on Streamlit Cloud or Heroku)
+
+
 
 📦 Setup Instructions
 bash
