@@ -65,7 +65,10 @@ streamlit run app.py
 
 Upload screen for player activity data
 
+
 📈 Future Enhancements
+
+
 Add player segmentation based on activity levels
 
 Integrate with real-time gaming APIs
@@ -75,9 +78,15 @@ Export leaderboard to PDF/Excel
 Admin login for secured access
 
 🤝 Contributing
+
+
 Contributions, suggestions, and feature requests are welcome!
+
 Fork the repo, make your changes, and submit a pull request.
 
+
 📄 License
+
+
 This project is licensed under the MIT License.
 
