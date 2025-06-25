@@ -1,6 +1,6 @@
 # player-loyalty-rewards-dashboard
 🕹️ ABC Gaming - Loyalty Points Calculator
-A real-money gaming platform loyalty analysis tool. This app provides a full workflow for uploading, analyzing, and reporting on player activity data for loyalty and bonus point allocation — with a focus on interactivity, transparency, and clarity.
+A real-money gaming platform loyalty analysis tool. This app provides a full workflow for uploading, analyzing, and reporting on player activity data for loyalty and bonus point allocation with a focus on interactivity, transparency, and clarity.
 
 🚀 Features
 
@@ -19,17 +19,17 @@ A real-money gaming platform loyalty analysis tool. This app provides a full wor
 
 📁 Expected Input Format
 
-Column Name	      Description
+Column Name	                  Description
 
-player_id       	Unique player identifier
+player_id                   	Unique player identifier
 
-game_type       	Type of game played
+game_type                   	Type of game played
 
-amount_wagered	  Total amount wagered
+amount_wagered	              Total amount wagered
 
-amount_won       	Total amount won
+amount_won                   	Total amount won
 
-timestamp	        Date/time of activity
+timestamp	                    Date/time of activity
 
 
 📌 File formats supported: .csv, .xlsx, .xls (Max: 200MB)
